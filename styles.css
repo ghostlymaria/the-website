@@ -1,0 +1,133 @@
+
+.body {
+    background-color: black;
+}
+.container {
+    width: 100%;
+}
+
+.page {
+    display: flex;
+    width: 1440px;
+    height: 900px;
+}
+
+.one {
+    background-color: black;
+
+}
+
+.title {
+    position: absolute;
+    width: 1440px;
+    height: 52px;
+    left: 0px;
+    top: 289px;
+
+    font-family: Courier;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+
+}
+
+.by {
+    position: absolute;
+    width: 1440px;
+    height: 52px;
+    left: 0px;
+    top: 341px;
+
+    font-family: Courier;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.info {
+    position: absolute;
+    width: 1440px;
+    height: 52px;
+    left: 0px;
+    top: 424px;
+    
+
+    font-family: Courier;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.ellipse {
+    position: absolute;
+    width: 1127px;
+    height: 216px;
+    left: 157px;
+    top: 631px;
+
+    background: radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, rgba(255, 255, 255, 0.600397) 63.21%, rgba(196, 196, 196, 0) 100%);
+}
+
+.two {
+    background-color:black;
+
+}
+    
+
+.scroll {
+    width: 534px;
+    height: 610px;
+    left: 453px;
+    top: 960px;
+    margin-left: 453px;
+    margin-right: 453px;
+    margin-top: 20px;
+    background-color: black;
+    align-items: center;
+}
+
+.text {
+    font-family: Courier;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    height: 610px;
+    left: 453px;
+    top: 956px;
+    overflow:auto;
+    color:#fff;
+}
+
+.ellipsetwo {
+    position: absolute;
+    width: 1127px;
+    height: 216px;
+    left: 157px;
+    top: 1566px;
+
+    background: radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, rgba(255, 255, 255, 0.600397) 63.21%, rgba(196, 196, 196, 0) 100%);
+}
+
+.picture img  {
+    position: absolute;
+    width: 252px;
+    margin-bottom: 40px;
+    margin-left: 43px;
+
+
+}
