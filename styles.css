@@ -12,7 +12,7 @@ display:none;
 
 .webtext {
     position: absolute;
-width: 354px;
+width: 400px;
 height: 285px;
 left: 10px;
 top: 900px;
@@ -235,7 +235,7 @@ body {
          }
 
          .button {
-            background-color:white;
+             background-color:white;
              
             font-family: 'Courier New', Courier, monospace;
             font-size: 24px;
@@ -327,6 +327,23 @@ body {
 
 
 }
+
+#a {
+    position: absolute;
+    z-index: 9;
+    width: 252px;
+}
+
+#trail img {
+
+    padding-left: 900px;
+    padding-top: 2600px;
+    cursor: move;
+    z-index: 10;
+    width: 330px;
+
+
+}
 #Queen {
 
     text-align: center;
@@ -408,7 +425,131 @@ body {
 
 } 
 
+#Poster {
 
+    text-align: center;
+        background-color:black;
+        position: absolute;
+        display: none
+}
+
+#american {
+
+    position: absolute;
+    z-index: 9;
+    width: 2px;
+}
+
+#honey img {
+
+    padding-left: 1000px;
+    padding-top: 5900px;
+    cursor: move;
+    z-index: 10;
+    width: 380px;
+
+
+}
+
+#blue {
+    position: absolute;
+    z-index: 9;
+    width: 2px;
+
+}
+
+#ruin img {
+
+    padding-left: 100px;
+    padding-top: 5900px;
+    cursor: move;
+    z-index: 10;
+    width: 280px;
+
+
+}
+
+#repo {
+
+    position: absolute;
+    z-index: 9;
+    width: 2px;
+}
+
+#man img {
+
+    padding-left: 400px;
+    padding-top: 5900px;
+    cursor: move;
+    z-index: 10;
+    width: 280px;
+
+}
+
+#mama {
+    position: absolute;
+    z-index: 9;
+    width: 2px;
+
+}
+
+#tambien img {
+
+    padding-left: 700px;
+    padding-top: 5900px;
+    cursor: move;
+    z-index: 10;
+    width: 280px;
+
+
+}
+
+#Tools {
+    text-align: center;
+        background-color:black;
+        position: absolute;
+        display: none
+}
+
+#one { 
+
+    position: absolute;
+    z-index: 9;
+    width: 280px;
+
+}
+
+#onetool img {
+
+    padding-left: 200px;
+    padding-top: 6500px;
+    cursor: move;
+    z-index: 10;
+    width: 250px;
+
+
+}
+
+#two {
+
+
+    position: absolute;
+    z-index: 9;
+    width: 280px;
+
+
+}
+
+#twotools img {
+
+    padding-left: 500px;
+    padding-top: 6500px;
+    cursor: move;
+    z-index: 10;
+    width: 250px;
+
+
+}
 @media (max-width: 1000px) {
 
 .title {
