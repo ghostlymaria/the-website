@@ -12,8 +12,8 @@ display:none;
 
 .webtext {
     position: absolute;
-width: 400px;
-height: 285px;
+    width: 60vw;
+    height: 70vh;
 left: 10px;
 top: 900px;
 
