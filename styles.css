@@ -51,8 +51,8 @@ body {
 
 .title {
     position: absolute;
-    width: 1440px;
-    height: 52px;
+    width: 100vw;
+    
     left: 0px;
     top: 289px;
 
@@ -70,8 +70,8 @@ body {
 
 .by {
     position: absolute;
-    width: 1440px;
-    height: 52px;
+    width: 100vw;
+    
     left: 0px;
     top: 341px;
 
@@ -87,8 +87,7 @@ body {
 
 .info {
     position: absolute;
-    width: 1440px;
-    height: 52px;
+    width: 100vw;
     left: 0px;
     top: 424px;
     
