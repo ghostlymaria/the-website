@@ -201,7 +201,10 @@ body {
     text-align: right;
 }
 
+.regular  {
 
+    text-align: left;
+}
 .speech {
 
     text-align: left;
