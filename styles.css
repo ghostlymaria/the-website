@@ -381,7 +381,7 @@ body {
 #honey img {
 
     padding-left: 1000px;
-    padding-top: 6000px;
+    padding-top: 6400px;
     cursor: move;
     z-index: 10;
     width: 380px;
@@ -399,7 +399,7 @@ body {
 #ruin img {
 
     padding-left: 100px;
-    padding-top: 6000px;
+    padding-top: 6400px;
     cursor: move;
     z-index: 10;
     width: 280px;
@@ -417,7 +417,7 @@ body {
 #man img {
 
     padding-left: 400px;
-    padding-top: 6000px;
+    padding-top: 6400px;
     cursor: move;
     z-index: 10;
     width: 280px;
@@ -434,7 +434,7 @@ body {
 #tambien img {
 
     padding-left: 700px;
-    padding-top: 6000px;
+    padding-top: 6400px;
     cursor: move;
     z-index: 10;
     width: 280px;
