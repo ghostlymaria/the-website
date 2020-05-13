@@ -381,7 +381,7 @@ body {
 #honey img {
 
     padding-left: 1000px;
-    padding-top: 6400px;
+    padding-top: 6600px;
     cursor: move;
     z-index: 10;
     width: 380px;
@@ -399,7 +399,7 @@ body {
 #ruin img {
 
     padding-left: 100px;
-    padding-top: 6400px;
+    padding-top: 6600px;
     cursor: move;
     z-index: 10;
     width: 280px;
@@ -417,7 +417,7 @@ body {
 #man img {
 
     padding-left: 400px;
-    padding-top: 6400px;
+    padding-top: 6600px;
     cursor: move;
     z-index: 10;
     width: 280px;
@@ -434,7 +434,7 @@ body {
 #tambien img {
 
     padding-left: 700px;
-    padding-top: 6400px;
+    padding-top: 6600px;
     cursor: move;
     z-index: 10;
     width: 280px;
@@ -460,7 +460,7 @@ body {
 #onetool img {
 
     padding-left: 200px;
-    padding-top: 6800px;
+    padding-top: 7200px;
     cursor: move;
     z-index: 10;
     width: 250px;
@@ -481,7 +481,7 @@ body {
 #twotools img {
 
     padding-left: 500px;
-    padding-top: 6800px;
+    padding-top: 7200px;
     cursor: move;
     z-index: 10;
     width: 250px;
